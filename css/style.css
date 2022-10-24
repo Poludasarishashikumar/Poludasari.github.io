@@ -1,33 +1,5 @@
 @charset "utf-8";
-/*
-/*	Copyright (c) 2022 Frenify
-/*	Author: Frenify
-/*	This file is made for CURRENT TEMPLATE
-/*
 
-
-	List of CSS codes:
-	
-	01) Base
-	02) Site Structure
-	03) Section Hero Header
-	04) Main title
-	05) Info Items
-	06) Boxed List
-	07) Progress bar
-	08) Section Portfolio
-	09) Testimonials
-	10) Section Clients
-	11) Section News
-		11.1) Modalbox (used for news)
-	12) Section Contact
-	13) LIGHT Version
-	14) Responsive s
-
-
-/*------------------------------------------------------------------*/
-/*	01) Base
-/*------------------------------------------------------------------*/
 :root{
 	--mc: #3452ff;
 }

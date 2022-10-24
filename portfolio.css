@@ -1,0 +1,58 @@
+*
+{
+    margin:0;
+    padding: 0;
+    
+}
+div{
+    height: 57vh;
+    width:56vw;
+    position: absolute;
+}
+.apt
+{
+    background: rgba( 255, 255, 255, 0.3 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 3.5px );
+-webkit-backdrop-filter: blur( 3.5px );
+border-radius: 10px;
+margin: 23vw;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.apt2
+{
+    background: rgba( 255, 255, 255, 0.3 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 3.5px );
+    -webkit-backdrop-filter: blur( 3.5px );
+    margin-top: 91vh;
+    margin-left: 23vw;
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.top
+{
+    height: 78vh;
+    width: 100%;
+    background: linear-gradient(358deg, #2a9dd1, transparent);
+}
+h1
+{
+    margin: 1vw;
+    margin-right: -11vw;
+    margin-left: 42vw;
+}
+h3
+{
+    margin: 1vw;
+    margin-left: 17vw;
+    margin-right: 0vw;
+    color: #f616eb;
+}
+.lod
+{
+    
+}
+p{
+  margin: 1vw;  
+}
